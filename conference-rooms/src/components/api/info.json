@@ -1,0 +1,93 @@
+{
+  "rooms": [
+    {
+      "name": "Auditorium",
+      "price": 5500,
+      "quantity": 0,
+      "image": "/room.auditorium.jpg",
+      "description": "Large auditorium with a capacity of up to 200 people."
+    },
+    {
+      "name": "Conference Room",
+      "price": 3500,
+      "quantity": 0,
+      "image": "/room.conference-room.jpg",
+      "description": "Professional conference room with a capacity of up to 15 people."
+    },
+    {
+      "name": "Presentation Room",
+      "price": 700,
+      "quantity": 0,
+      "image": "/room.presentation-room.jpg",
+      "description": "Presentation room with a capacity of up to 50 people."
+    },
+    {
+      "name": "Large Meeting Room",
+      "price": 900,
+      "quantity": 0,
+      "image": "/room.meeting-room.jpg",
+      "description": "Spacious meeting room with a capacity of up to 10 people."
+    },
+    {
+      "name": "Small Meeting Room",
+      "price": 1100,
+      "quantity": 0,
+      "image": "/room.small-meeting-room.jpg",
+      "description": "Small meeting room with a capacity of up to 5 people."
+    }
+  ],
+  "add-ons": [
+    {
+      "name": "Speakers",
+      "price": 35,
+      "quantity": 0,
+      "image": "/add-on.speakers.jpg"
+    },
+    {
+      "name": "Microphones",
+      "price": 45,
+      "quantity": 0,
+      "image": "/add-on.microphone.jpg"
+    },
+    {
+      "name": "Whiteboards",
+      "price": 80,
+      "quantity": 0,
+      "image": "/add-on.whiteboard.png"
+    },
+    {
+      "name": "Projectors",
+      "price": 200,
+      "quantity": 0,
+      "image": "/add-on.projector.jpg"
+    },
+    {
+      "name": "Signage",
+      "price": 80,
+      "quantity": 0,
+      "image": "/add-on.signage.jpg"
+    }
+  ],
+  "meals": [
+    {
+      "name": "Breakfast",
+      "price": 50,
+      "quantity": 0
+    },
+    {
+      "name": "Lunch",
+      "price": 60,
+      "quantity": 0
+    },
+    {
+      "name": "Afternoon Tea",
+      "price": 25,
+      "quantity": 0
+    },
+    {
+      "name": "Dinner",
+      "price": 70,
+      "quantity": 0
+    }
+  ]
+}
